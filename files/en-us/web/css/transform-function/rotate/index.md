@@ -270,7 +270,7 @@ div {
 }
 
 .rotate-translate {
-  background-color: pink;
+  background-color: red;
   transform: rotate(45deg) translateX(180px);
 }
 
